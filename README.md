@@ -71,8 +71,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:57C5B6,50:8E7CFF,100:6C63FF" width="100%" alt="Footer" />
