@@ -12,19 +12,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 
-- 🎓 Computer Science graduate from **Birzeit University**
-- 💻 Interested in building practical software and solving real-world problems
-- 🧠 Strong foundation in **OOP, Data Structures, Algorithms, and Database Systems**
-- 📱 Experience developing **mobile and web applications**
-- 🔐 Built privacy-focused software using face detection and recognition
-- 🤝 Comfortable working independently and within collaborative teams
+- Computer Science graduate from **Birzeit University**
+- Interested in building practical software and solving real-world problems
+- Strong foundation in **OOP, Data Structures, Algorithms, and Database Systems**
+- Experience developing **mobile and web applications**
+- Built privacy-focused software using face detection and recognition
+- Comfortable working independently and within collaborative teams
   
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
@@ -42,20 +42,8 @@
 
 ---
 
-## 🎓 Education
 
-### Birzeit University
-
-**Bachelor in Computer Science**
-
-Relevant coursework and knowledge:
-
-`Programming` • `Object-Oriented Programming` • `Data Structures` • `Algorithms` • `Database Systems` • `Web Development` • `Mobile Development`
-
-
----
-
-## 🌟 Professional Strengths
+## Professional Strengths
 
 - Analytical thinking and structured problem solving
 - Ability to learn new technologies quickly
@@ -67,8 +55,6 @@ Relevant coursework and knowledge:
 - Presenting and explaining software projects
 
 ---
-
-## 📫 Connect With Me
 
 <div align="center">
 
