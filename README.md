@@ -36,7 +36,7 @@
 
 ### Frameworks, Platforms & Development Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,vscode,linux,windows,sqlite&perline=8" alt="Frameworks and tools" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,vscode,windows,sqlite&perline=8" alt="Frameworks and tools" />
 
 </div>
 
