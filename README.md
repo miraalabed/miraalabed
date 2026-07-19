@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+from+Birzeit+University;Software+Developer;Python+%7C+Java+%7C+Flutter+%7C+Web+and+Mobile+Development;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
 </a>
 
-<br>
-
-<a href="https://github.com/miraalabed">
-  <img src="https://komarev.com/ghpvc/?username=miraalabed&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
-</a>
-<a href="https://github.com/miraalabed?tab=followers">
-  <img src="https://img.shields.io/github/followers/miraalabed?label=Followers&style=for-the-badge&color=57C5B6" alt="GitHub followers" />
-</a>
-<a href="https://github.com/miraalabed?tab=repositories">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge" alt="Open to work" />
-</a>
-
 </div>
 
 ---
