@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,50:8E7CFF,100:57C5B6&text=Hi%20there,%20I'm%20Mira%20Al-Abed%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Software%20Developer&descAlignY=59&animation=fadeIn" alt="Mira Al-Abed banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+from+Birzeit+University;Junior+Software+Developer;Python+%7C+Java+%7C+Flutter+%7C+Web+Development;Interested+in+AI+and+Computer+Vision;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+from+Birzeit+University;Software+Developer;Python+%7C+Java+%7C+Flutter+%7C+Web+Development+%7C+Mobile+Development;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
 </a>
 
 <br>
@@ -30,12 +30,10 @@
 - 🎓 Computer Science graduate from **Birzeit University**
 - 💻 Interested in building practical software and solving real-world problems
 - 🧠 Strong foundation in **OOP, Data Structures, Algorithms, and Database Systems**
-- 📱 Experience developing **mobile, web, desktop, and computer-vision applications**
+- 📱 Experience developing **mobile and web applications**
 - 🔐 Built privacy-focused software using face detection and recognition
-- 🌱 Currently improving my skills in software engineering, AI, and clean architecture
 - 🤝 Comfortable working independently and within collaborative teams
-- 💼 Open to **Junior Software Developer, Python Developer, Java Developer, Web Developer, Mobile Developer, and AI-related roles**
-
+  
 ---
 
 ## 🛠️ Languages & Tools
@@ -60,11 +58,12 @@
 
 ### Birzeit University
 
-**Bachelor of Science in Computer Science**
+**Bachelor in Computer Science**
 
 Relevant coursework and knowledge:
 
-`Programming` • `Object-Oriented Programming` • `Data Structures` • `Algorithms` • `Database Systems` • `Operating Systems` • `Artificial Intelligence` • `Software Engineering` • `Computer Networks` • `Web Development`
+`Programming` • `Object-Oriented Programming` • `Data Structures` • `Algorithms` • `Database Systems` • `Web Development` • `Mobile Development`
+
 
 ---
 
@@ -95,9 +94,6 @@ Relevant coursework and knowledge:
   <img src="https://img.shields.io/badge/GitHub-miraalabed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br><br>
-
-**Open to junior roles, internships, freelance work, and collaborative projects.**
 
 </div>
 
@@ -107,6 +103,5 @@ Relevant coursework and knowledge:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:57C5B6,50:8E7CFF,100:6C63FF" width="100%" alt="Footer" />
 
-### Thanks for visiting my profile! 💜
 
 </div>
