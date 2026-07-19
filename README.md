@@ -11,7 +11,6 @@
 </div>
 
 
-
 ## About Me
 
 
@@ -23,7 +22,6 @@
 - Comfortable working independently and within collaborative teams
   
 
-
 ## Languages & Tools
 
 <div align="center">
@@ -32,15 +30,13 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,dart,php,c,html,css&perline=8" alt="Programming languages" />
 
-<br><br>
+<br>
 
 ### Frameworks, Platforms & Development Tools
 
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,vscode,windows,sqlite&perline=8" alt="Frameworks and tools" />
 
 </div>
-
-
 
 
 ## Professional Strengths
