@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -22,7 +22,7 @@
 - Built privacy-focused software using face detection and recognition
 - Comfortable working independently and within collaborative teams
   
----
+
 
 ## Languages & Tools
 
@@ -40,7 +40,7 @@
 
 </div>
 
----
+
 
 
 ## Professional Strengths
@@ -54,7 +54,6 @@
 - Technical research and documentation
 - Presenting and explaining software projects
 
----
 
 <div align="center">
 
