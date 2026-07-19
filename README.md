@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,50:8E7CFF,100:57C5B6&text=Hi%20there,%20I'm%20Mira%20Al-Abed%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Software%20Developer&descAlignY=59&animation=fadeIn" alt="Mira Al-Abed banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,50:8E7CFF,100:57C5B6&text=Hi%20there,%20I'm%20Mira%20Al-Abed%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Developer&descAlignY=59&animation=fadeIn" alt="Mira Al-Abed banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+from+Birzeit+University;Software+Developer;Python+%7C+Java+%7C+Flutter+%7C+Web+Development+%7C+Mobile+Development;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+from+Birzeit+University;Software+Developer;Python+%7C+Java+%7C+Flutter+%7C+Web&Mobile+Development;Always+learning%2C+building%2C+and+improving" alt="Typing introduction" />
 </a>
 
 <br>
