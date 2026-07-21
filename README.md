@@ -39,9 +39,13 @@
 </div>
 
 
-<br><br>
+<br>
 
 <div align="center">
+
+  Always learning, always building.
+
+<br>
 
 <a href="https://www.linkedin.com/in/mira-alabed-338553313?utm_source=share_via&utm_content=profile&utm_medium=member_ios/">
   <img src="https://img.shields.io/badge/LinkedIn-Mira%20Al--Abed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -57,9 +61,6 @@
 </div>
 
 <div align="center">
-
-  Always learning, always building.
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:57C5B6,50:8E7CFF,100:6C63FF" width="100%" alt="Footer" />
 
