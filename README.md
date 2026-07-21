@@ -43,8 +43,6 @@
 
 <div align="center">
 
-  Always learning, always building.
-
 <br>
 
 <a href="https://www.linkedin.com/in/mira-alabed-338553313?utm_source=share_via&utm_content=profile&utm_medium=member_ios/">
