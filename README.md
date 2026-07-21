@@ -39,18 +39,6 @@
 </div>
 
 
-## Professional Strengths
-
-- Analytical thinking and structured problem solving
-- Ability to learn new technologies quickly
-- Writing organized and maintainable code
-- Strong attention to detail
-- Team collaboration and clear communication
-- Responsibility and commitment to deadlines
-- Technical research and documentation
-- Presenting and explaining software projects
-
-
 <br><br>
 
 <div align="center">
@@ -69,6 +57,9 @@
 </div>
 
 <div align="center">
+
+  Always learning, always building.
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:57C5B6,50:8E7CFF,100:6C63FF" width="100%" alt="Footer" />
 
